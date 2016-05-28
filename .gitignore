@@ -4,3 +4,10 @@ bower_components/
 
 build/
 dist/
+.tmp/
+.vs/
+artifacts/
+lib/
+BeautyTeamAngular.xproj.user
+BeautyTeamAngular.xproj
+BeautyTeamAngularJS.sln
